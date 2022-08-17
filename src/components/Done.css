@@ -1,0 +1,22 @@
+.done-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+.done-header{
+    font-size: 35px;
+}
+.done-text{
+    font-size: 25px;
+}
+.done-btn{
+        background-color:rgb(104, 28, 104);
+        color: white;
+        font-size: 18px;
+        border: none;
+        width: 235px;
+        padding: 10px;
+        border-radius:5px;
+        cursor: pointer;
+}
